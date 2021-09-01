@@ -1,0 +1,13 @@
+h1 {
+    font-size: 24 px;
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 8px;
+    border-bottom: 3px solid;
+}
+
+p {
+    font-size: 12 px;
+    font-weight: 400;
+    font-family: 'Courier New', Courier, monospace;
+}
